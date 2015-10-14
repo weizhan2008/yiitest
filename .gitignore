@@ -18,6 +18,9 @@ Thumbs.db
 # composer vendor dir
 /vendor
 
+# add phpci
+/phpci
+
 # composer itself is not needed
 composer.phar
 
